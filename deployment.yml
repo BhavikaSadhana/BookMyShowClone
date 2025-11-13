@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: bookmyshow-container
-        image: bhavana686/bookmyshowclone:v1
+        image: bhavana686/bookmyshowcloneonlyhtmlcss:v1
         ports:
         - containerPort: 80
